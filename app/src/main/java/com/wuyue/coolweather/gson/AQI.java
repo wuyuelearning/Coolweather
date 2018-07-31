@@ -1,4 +1,4 @@
-package gson;
+package com.wuyue.coolweather.gson;
 
 /**
  * Created by wuyue on 2018/7/29.

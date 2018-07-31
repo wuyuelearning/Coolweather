@@ -1,4 +1,4 @@
-package gson;
+package com.wuyue.coolweather.gson;
 
 import com.google.gson.annotations.SerializedName;
 
